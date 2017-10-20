@@ -5,7 +5,7 @@
 文件[更新记录](https://github.com/cnAnonymous/hosts/blob/master/Updatelog.md)
 更多请发[Issues](https://github.com/cnAnonymous/hosts/issues/new)，需要[联系](mailto:newmingtian@gmail.com)
 
-test
+test aaaaaaaaaa
 
 
 
