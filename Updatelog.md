@@ -10,3 +10,4 @@ Google的主IP暂时采用的印尼，如果觉得慢可以自己找台湾、澳
 ## 2016-6-2 增加对Google play 的支持及第三方应用apkpure.com 
 ## 2016-6-1 添加对dropbox.com的支持
 好的
+哈哈哈哈
